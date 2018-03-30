@@ -4,7 +4,7 @@ layout: default
 ---
 <h1>The Limits of Corporate Culture</h1>
 
-<p><img class="right" width="327px" src="https://nselby.github.io/assets/img/plumber.png" /></p>
+<p><img class="right" width="327" src="http://nselby.github.io/assets/img/plumber.png" /></p>
 
 A human resources guy I respect said something today that really hit home: when you're discussing corporate values, listing the word, "Integrity" is really odd - if you need to list <em>that</em> as a corporate value, you're really starting behind the <a href="https://en.wikipedia.org/wiki/Optical_landing_system" target="_blank">meatball</a> in terms of your hiring. I mean, we should be able to presume <em>something</em>, right? 
 
